@@ -1,0 +1,2002 @@
+[
+  {
+    "id": 1,
+    "portfolio": "Communications",
+    "role": "YouVersion Engagement",
+    "campus": "All",
+    "summary": "Maintain our church YouVersion presence and engagement with followers",
+    "interests": [
+      "Sharing Faith",
+      "Creating & Making"
+    ],
+    "styles": [
+      "Creative & Content",
+      "Tech & Production"
+    ],
+    "frequency": "Weekly",
+    "commitment": "Quick - Under 1hr",
+    "availability": "Flexible",
+    "remote": "Yes",
+    "requirements": "No experience needed",
+    "notes": ""
+  },
+  {
+    "id": 2,
+    "portfolio": "Communications",
+    "role": "Social Media Assistant",
+    "campus": "All",
+    "summary": "Facilitate posting and engagement across Catalyst social media properties",
+    "interests": [
+      "Creating & Making",
+      "Sharing Faith",
+      "Creating Great Experiences"
+    ],
+    "styles": [
+      "Creative & Content",
+      "Tech & Production"
+    ],
+    "frequency": "Weekly",
+    "commitment": "Quick - Under 1hr",
+    "availability": "Flexible",
+    "remote": "Yes",
+    "requirements": "Bring your skills",
+    "notes": ""
+  },
+  {
+    "id": 3,
+    "portfolio": "Communications",
+    "role": "Graphic Designers",
+    "campus": "All",
+    "summary": "Assist with design of various print and digital materials for church activities",
+    "interests": [
+      "Creating & Making",
+      "Creating Great Experiences"
+    ],
+    "styles": [
+      "Creative & Content"
+    ],
+    "frequency": "As needed",
+    "commitment": "A few hours",
+    "availability": "Flexible",
+    "remote": "Yes",
+    "requirements": "Bring your skills",
+    "notes": ""
+  },
+  {
+    "id": 4,
+    "portfolio": "Experiences",
+    "role": "Live Stream Operators",
+    "campus": "Werribee",
+    "summary": "Delivering the live stream by monitoring audio, overlay graphics and chat engagement",
+    "interests": [
+      "Creating Great Experiences",
+      "Solving Problems"
+    ],
+    "styles": [
+      "Tech & Production"
+    ],
+    "frequency": "Rostered",
+    "commitment": "A few hours",
+    "availability": "Sundays",
+    "remote": "No",
+    "requirements": "Training provided",
+    "notes": ""
+  },
+  {
+    "id": 5,
+    "portfolio": "Experiences",
+    "role": "Environment Resetting",
+    "campus": "Either",
+    "summary": "Tidy shared spaces—set foyer/café spaces, parent room, toilets, rubbish, etc.",
+    "interests": [
+      "Working With My Hands",
+      "Creating Great Experiences",
+      "Making People Feel Welcome"
+    ],
+    "styles": [
+      "Practical & Hands-On"
+    ],
+    "frequency": "As needed",
+    "commitment": "Quick - Under 1hr",
+    "availability": "Midweek",
+    "remote": "No",
+    "requirements": "No experience needed",
+    "notes": ""
+  },
+  {
+    "id": 6,
+    "portfolio": "Experiences",
+    "role": "Events – Errands",
+    "campus": "All",
+    "summary": "Available midweek when required to prepare, shop, collect and deliver event supplies etc.",
+    "interests": [
+      "Helping People",
+      "Working With My Hands",
+      "Creating Great Experiences"
+    ],
+    "styles": [
+      "Practical & Hands-On"
+    ],
+    "frequency": "As needed",
+    "commitment": "Quick - Under 1hr",
+    "availability": "Midweek",
+    "remote": "Yes",
+    "requirements": "No experience needed",
+    "notes": ""
+  },
+  {
+    "id": 7,
+    "portfolio": "Experiences",
+    "role": "Events - Planners",
+    "campus": "All",
+    "summary": "Help plan and organise church events as part of a wider Events team",
+    "interests": [
+      "Bringing Order",
+      "Creating Great Experiences"
+    ],
+    "styles": [
+      "Organising & Admin"
+    ],
+    "frequency": "As needed",
+    "commitment": "A few hours",
+    "availability": "Midweek",
+    "remote": "Yes",
+    "requirements": "Bring your skills",
+    "notes": ""
+  },
+  {
+    "id": 8,
+    "portfolio": "Creative",
+    "role": "Décor Team",
+    "campus": "Either",
+    "summary": "Lead creative ideas and install of event decor fun across the campus",
+    "interests": [
+      "Creating & Making",
+      "Creating Great Experiences",
+      "Working With My Hands"
+    ],
+    "styles": [
+      "Creative & Content",
+      "Practical & Hands-On"
+    ],
+    "frequency": "As needed",
+    "commitment": "A few hours",
+    "availability": "Flexible",
+    "remote": "No",
+    "requirements": "Training provided",
+    "notes": ""
+  },
+  {
+    "id": 9,
+    "portfolio": "Creative",
+    "role": "Video Editors",
+    "campus": "Werribee",
+    "summary": "Receive content and brief to edit videos for promo, socials, testimonies, services etc.",
+    "interests": [
+      "Creating & Making",
+      "Sharing Faith"
+    ],
+    "styles": [
+      "Creative & Content",
+      "Tech & Production"
+    ],
+    "frequency": "As needed",
+    "commitment": "A few hours",
+    "availability": "Flexible",
+    "remote": "Yes",
+    "requirements": "Bring your skills",
+    "notes": ""
+  },
+  {
+    "id": 10,
+    "portfolio": "Creative",
+    "role": "Photo Library curator",
+    "campus": "All",
+    "summary": "Maintain an indexed, accessible database of photos across all ministries.",
+    "interests": [
+      "Bringing Order",
+      "Creating & Making"
+    ],
+    "styles": [
+      "Organising & Admin",
+      "Creative & Content"
+    ],
+    "frequency": "Monthly",
+    "commitment": "Quick - Under 1hr",
+    "availability": "Flexible",
+    "remote": "Yes",
+    "requirements": "No experience needed",
+    "notes": ""
+  },
+  {
+    "id": 11,
+    "portfolio": "Creative",
+    "role": "Spotify Curators",
+    "campus": "All",
+    "summary": "Help with curating and maintaining relevant series playlists on Spotify",
+    "interests": [
+      "Creating & Making",
+      "Creating Great Experiences"
+    ],
+    "styles": [
+      "Creative & Content"
+    ],
+    "frequency": "Monthly",
+    "commitment": "Quick - Under 1hr",
+    "availability": "Flexible",
+    "remote": "Yes",
+    "requirements": "Training provided",
+    "notes": ""
+  },
+  {
+    "id": 12,
+    "portfolio": "Creative",
+    "role": "Admin Reporting",
+    "campus": "All",
+    "summary": "Monthly manual reporting of CCLI songs used during the month across all services.",
+    "interests": [
+      "Bringing Order"
+    ],
+    "styles": [
+      "Organising & Admin"
+    ],
+    "frequency": "Monthly",
+    "commitment": "Quick - Under 1hr",
+    "availability": "Midweek",
+    "remote": "Yes",
+    "requirements": "Training provided",
+    "notes": ""
+  },
+  {
+    "id": 13,
+    "portfolio": "Creative",
+    "role": "Lighting Operators",
+    "campus": "Werribee",
+    "summary": "Deliver our production lighting for Sunday services and other events.",
+    "interests": [
+      "Creating Great Experiences",
+      "Solving Problems"
+    ],
+    "styles": [
+      "Tech & Production"
+    ],
+    "frequency": "Rostered",
+    "commitment": "A few hours",
+    "availability": "Sundays",
+    "remote": "No",
+    "requirements": "Training provided",
+    "notes": ""
+  },
+  {
+    "id": 14,
+    "portfolio": "Creative",
+    "role": "Audio Visual Techs",
+    "campus": "Either",
+    "summary": "Help our CatalystKids and CatalystYouth teams by providing basic AV help during programs.",
+    "interests": [
+      "Solving Problems",
+      "Helping People",
+      "Creating Great Experiences"
+    ],
+    "styles": [
+      "Tech & Production"
+    ],
+    "frequency": "Rostered",
+    "commitment": "A few hours",
+    "availability": "Fridays, Sundays",
+    "remote": "No",
+    "requirements": "Training provided",
+    "notes": ""
+  },
+  {
+    "id": 15,
+    "portfolio": "Care",
+    "role": "Prayer Team",
+    "campus": "All",
+    "summary": "Join our onsite and online prayer team gatherings and receive prayer requests",
+    "interests": [
+      "Caring for Others",
+      "Sharing Faith"
+    ],
+    "styles": [
+      "People & Relationships"
+    ],
+    "frequency": "As needed",
+    "commitment": "Ongoing",
+    "availability": "Flexible",
+    "remote": "Yes",
+    "requirements": "No experience needed",
+    "notes": ""
+  },
+  {
+    "id": 16,
+    "portfolio": "Care",
+    "role": "Pastoral Care Team",
+    "campus": "All",
+    "summary": "Join our team of carers who help with food, support, check-ins, database updates",
+    "interests": [
+      "Caring for Others",
+      "Helping People",
+      "Building Relationships"
+    ],
+    "styles": [
+      "People & Relationships"
+    ],
+    "frequency": "As needed",
+    "commitment": "Ongoing",
+    "availability": "Flexible",
+    "remote": "Yes",
+    "requirements": "No experience needed",
+    "notes": ""
+  },
+  {
+    "id": 17,
+    "portfolio": "Care",
+    "role": "Visitation Team",
+    "campus": "Either",
+    "summary": "Take time to visit with people in need in hospitals, care homes, family homes",
+    "interests": [
+      "Caring for Others",
+      "Building Relationships",
+      "Helping People"
+    ],
+    "styles": [
+      "People & Relationships"
+    ],
+    "frequency": "As needed",
+    "commitment": "Quick - Under 1hr",
+    "availability": "Flexible",
+    "remote": "Yes",
+    "requirements": "No experience needed",
+    "notes": ""
+  },
+  {
+    "id": 18,
+    "portfolio": "Care",
+    "role": "Volunteer Care",
+    "campus": "Either",
+    "summary": "Care for our Catalyst Teams through food, encouragement, check-ins, database updates",
+    "interests": [
+      "Caring for Others",
+      "Helping People",
+      "Building Relationships"
+    ],
+    "styles": [
+      "People & Relationships"
+    ],
+    "frequency": "As needed",
+    "commitment": "Quick - Under 1hr",
+    "availability": "Flexible",
+    "remote": "Yes",
+    "requirements": "No experience needed",
+    "notes": ""
+  },
+  {
+    "id": 19,
+    "portfolio": "Community",
+    "role": "Newcomer Follow-up",
+    "campus": "All",
+    "summary": "Assist with newcomer follow-up via phone and email communications.",
+    "interests": [
+      "Making People Feel Welcome",
+      "Building Relationships",
+      "Helping People"
+    ],
+    "styles": [
+      "People & Relationships"
+    ],
+    "frequency": "Weekly",
+    "commitment": "A few hours",
+    "availability": "Flexible",
+    "remote": "Yes",
+    "requirements": "Training provided",
+    "notes": ""
+  },
+  {
+    "id": 20,
+    "portfolio": "Community",
+    "role": "Connect Lunch Team",
+    "campus": "Werribee",
+    "summary": "Help welcome newcomers at our monthly Connect Lunches",
+    "interests": [
+      "Making People Feel Welcome",
+      "Building Relationships",
+      "Creating Great Experiences"
+    ],
+    "styles": [
+      "People & Relationships"
+    ],
+    "frequency": "Monthly",
+    "commitment": "Quick - Under 1hr",
+    "availability": "Sundays",
+    "remote": "No",
+    "requirements": "No experience needed",
+    "notes": ""
+  },
+  {
+    "id": 21,
+    "portfolio": "Community",
+    "role": "Catering Support",
+    "campus": "All",
+    "summary": "Join a team ready to assist with food catering for Catalyst activities and events.",
+    "interests": [
+      "Helping People",
+      "Creating Great Experiences",
+      "Working With My Hands"
+    ],
+    "styles": [
+      "Practical & Hands-On"
+    ],
+    "frequency": "As needed",
+    "commitment": "A few hours",
+    "availability": "Flexible",
+    "remote": "Yes",
+    "requirements": "No experience needed",
+    "notes": ""
+  },
+  {
+    "id": 22,
+    "portfolio": "Community",
+    "role": "Host Team Member",
+    "campus": "All",
+    "summary": "Serve on the host team ie: carparking, ushers, greeters, newcomer connections",
+    "interests": [
+      "Making People Feel Welcome",
+      "Building Relationships",
+      "Helping People"
+    ],
+    "styles": [
+      "People & Relationships"
+    ],
+    "frequency": "Rostered",
+    "commitment": "A few hours",
+    "availability": "Sundays",
+    "remote": "No",
+    "requirements": "Training provided",
+    "notes": ""
+  },
+  {
+    "id": 23,
+    "portfolio": "Community",
+    "role": "Communion Team",
+    "campus": "Werribee",
+    "summary": "Help prepare Communion elements for distribution within Sunday services",
+    "interests": [
+      "Sharing Faith",
+      "Working With My Hands",
+      "Creating Great Experiences"
+    ],
+    "styles": [
+      "Practical & Hands-On"
+    ],
+    "frequency": "Rostered",
+    "commitment": "Quick - Under 1hr",
+    "availability": "Sundays",
+    "remote": "No",
+    "requirements": "No experience needed",
+    "notes": ""
+  },
+  {
+    "id": 24,
+    "portfolio": "Community",
+    "role": "Security Team",
+    "campus": "Werribee",
+    "summary": "Keep our events and services safe as part of a rostered security team.",
+    "interests": [
+      "Helping People",
+      "Solving Problems",
+      "Creating Great Experiences"
+    ],
+    "styles": [
+      "Practical & Hands-On"
+    ],
+    "frequency": "Rostered",
+    "commitment": "A few hours",
+    "availability": "Flexible",
+    "remote": "No",
+    "requirements": "Training provided",
+    "notes": ""
+  },
+  {
+    "id": 25,
+    "portfolio": "Facilities",
+    "role": "Garden Maintenance Crew",
+    "campus": "Werribee",
+    "summary": "Maintain the gardens around our campuses.",
+    "interests": [
+      "Working With My Hands",
+      "Creating & Making",
+      "Making a Community Difference"
+    ],
+    "styles": [
+      "Practical & Hands-On"
+    ],
+    "frequency": "Monthly",
+    "commitment": "A few hours",
+    "availability": "Flexible",
+    "remote": "No",
+    "requirements": "No experience needed",
+    "notes": ""
+  },
+  {
+    "id": 26,
+    "portfolio": "Facilities",
+    "role": "Window Washing",
+    "campus": "Werribee",
+    "summary": "Wash building windows throughout the year",
+    "interests": [
+      "Working With My Hands",
+      "Helping People"
+    ],
+    "styles": [
+      "Practical & Hands-On"
+    ],
+    "frequency": "As needed",
+    "commitment": "A few hours",
+    "availability": "Flexible",
+    "remote": "No",
+    "requirements": "No experience needed",
+    "notes": ""
+  },
+  {
+    "id": 27,
+    "portfolio": "Facilities",
+    "role": "Collect & Deliver - Large Vehicle/Trailer",
+    "campus": "All",
+    "summary": "Has a suitable vehicle to assist with the transport of larger items when required.",
+    "interests": [
+      "Helping People",
+      "Working With My Hands"
+    ],
+    "styles": [
+      "Practical & Hands-On"
+    ],
+    "frequency": "As needed",
+    "commitment": "A few hours",
+    "availability": "Flexible",
+    "remote": "Yes",
+    "requirements": "No experience needed",
+    "notes": ""
+  },
+  {
+    "id": 28,
+    "portfolio": "Facilities",
+    "role": "Indoor plant carer",
+    "campus": "Werribee",
+    "summary": "Has a green thumb, loves plants & can expand our plant babies",
+    "interests": [
+      "Working With My Hands",
+      "Creating & Making",
+      "Creating Great Experiences"
+    ],
+    "styles": [
+      "Practical & Hands-On"
+    ],
+    "frequency": "Weekly",
+    "commitment": "A few hours",
+    "availability": "Midweek",
+    "remote": "No",
+    "requirements": "Bring your skills",
+    "notes": ""
+  },
+  {
+    "id": 29,
+    "portfolio": "Facilities",
+    "role": "Landscape design",
+    "campus": "All",
+    "summary": "Beautification of property with new plants",
+    "interests": [
+      "Creating & Making",
+      "Working With My Hands",
+      "Creating Great Experiences"
+    ],
+    "styles": [
+      "Creative & Content",
+      "Practical & Hands-On"
+    ],
+    "frequency": "As needed",
+    "commitment": "A few hours",
+    "availability": "Flexible",
+    "remote": "No",
+    "requirements": "Bring your skills",
+    "notes": ""
+  },
+  {
+    "id": 30,
+    "portfolio": "Facilities",
+    "role": "Environment Health",
+    "campus": "All",
+    "summary": "Clean out fridges, freezers, refill cleaning supplies (spray bottles, dispensers, etc.) in all areas",
+    "interests": [
+      "Working With My Hands",
+      "Helping People",
+      "Bringing Order"
+    ],
+    "styles": [
+      "Practical & Hands-On"
+    ],
+    "frequency": "Weekly",
+    "commitment": "Quick - Under 1hr",
+    "availability": "Midweek",
+    "remote": "No",
+    "requirements": "No experience needed",
+    "notes": ""
+  },
+  {
+    "id": 31,
+    "portfolio": "Facilities",
+    "role": "Trades",
+    "campus": "All",
+    "summary": "Qualified tradespeople ready to assist with maintenance and upgrade projects",
+    "interests": [
+      "Solving Problems",
+      "Working With My Hands",
+      "Helping People"
+    ],
+    "styles": [
+      "Practical & Hands-On"
+    ],
+    "frequency": "As needed",
+    "commitment": "A few hours",
+    "availability": "Midweek",
+    "remote": "No",
+    "requirements": "Qualification required",
+    "notes": ""
+  },
+  {
+    "id": 32,
+    "portfolio": "Facilities",
+    "role": "Auditorium Chair Resetting",
+    "campus": "Werribee",
+    "summary": "Early Sunday mornings or after major events, straighten or reset Auditorium chairs",
+    "interests": [
+      "Working With My Hands",
+      "Helping People",
+      "Creating Great Experiences"
+    ],
+    "styles": [
+      "Practical & Hands-On"
+    ],
+    "frequency": "Rostered",
+    "commitment": "Quick - Under 1hr",
+    "availability": "Sundays",
+    "remote": "No",
+    "requirements": "No experience needed",
+    "notes": ""
+  },
+  {
+    "id": 33,
+    "portfolio": "Discipleship",
+    "role": "Faith Mentors",
+    "campus": "All",
+    "summary": "Do life with new Christians, those struggling, those needing guidance",
+    "interests": [
+      "Seeing People Grow",
+      "Building Relationships",
+      "Sharing Faith"
+    ],
+    "styles": [
+      "People & Relationships"
+    ],
+    "frequency": "As needed",
+    "commitment": "Ongoing",
+    "availability": "Flexible",
+    "remote": "Yes",
+    "requirements": "Training provided",
+    "notes": ""
+  },
+  {
+    "id": 34,
+    "portfolio": "Discipleship",
+    "role": "Alpha Facilitators",
+    "campus": "Werribee",
+    "summary": "Organise and run the Alpha course",
+    "interests": [
+      "Sharing Faith",
+      "Seeing People Grow",
+      "Building Relationships"
+    ],
+    "styles": [
+      "Leading & Developing Others",
+      "People & Relationships"
+    ],
+    "frequency": "Quarterly",
+    "commitment": "A few hours",
+    "availability": "Midweek",
+    "remote": "No",
+    "requirements": "Training provided",
+    "notes": ""
+  },
+  {
+    "id": 35,
+    "portfolio": "Discipleship",
+    "role": "Alpha Table hosts",
+    "campus": "Werribee",
+    "summary": "Help with delivering the Alpha course by leading table groups each week.",
+    "interests": [
+      "Sharing Faith",
+      "Building Relationships",
+      "Making People Feel Welcome"
+    ],
+    "styles": [
+      "People & Relationships"
+    ],
+    "frequency": "Quarterly",
+    "commitment": "A few hours",
+    "availability": "Midweek",
+    "remote": "No",
+    "requirements": "Training provided",
+    "notes": ""
+  },
+  {
+    "id": 36,
+    "portfolio": "Discipleship",
+    "role": "Quiet Time Tool",
+    "campus": "Werribee",
+    "summary": "Assist/develop monthly reading plans",
+    "interests": [
+      "Sharing Faith",
+      "Creating & Making",
+      "Seeing People Grow"
+    ],
+    "styles": [
+      "Creative & Content"
+    ],
+    "frequency": "Monthly",
+    "commitment": "A few hours",
+    "availability": "Flexible",
+    "remote": "Yes",
+    "requirements": "Training provided",
+    "notes": ""
+  },
+  {
+    "id": 37,
+    "portfolio": "Discipleship",
+    "role": "Life Group Hosts",
+    "campus": "All",
+    "summary": "Have a Life Group regularly meet in your home but be led by others.",
+    "interests": [
+      "Making People Feel Welcome",
+      "Building Relationships",
+      "Sharing Faith"
+    ],
+    "styles": [
+      "People & Relationships"
+    ],
+    "frequency": "Weekly",
+    "commitment": "A few hours",
+    "availability": "Midweek",
+    "remote": "Yes",
+    "requirements": "No experience needed",
+    "notes": ""
+  },
+  {
+    "id": 38,
+    "portfolio": "Discipleship",
+    "role": "Life Group Leader",
+    "campus": "All",
+    "summary": "Facilitate and care for a regular Life Group in your own home or someone else’s.",
+    "interests": [
+      "Seeing People Grow",
+      "Building Relationships",
+      "Sharing Faith"
+    ],
+    "styles": [
+      "Leading & Developing Others",
+      "People & Relationships"
+    ],
+    "frequency": "Weekly",
+    "commitment": "A few hours",
+    "availability": "Midweek",
+    "remote": "Yes",
+    "requirements": "Training provided",
+    "notes": ""
+  },
+  {
+    "id": 39,
+    "portfolio": "Discipleship",
+    "role": "Serving Mobiliser",
+    "campus": "All",
+    "summary": "Help others find where they might fit best when serving at Catalyst through conversations and guidance.",
+    "interests": [
+      "Seeing People Grow",
+      "Helping People",
+      "Building Relationships"
+    ],
+    "styles": [
+      "People & Relationships"
+    ],
+    "frequency": "Monthly",
+    "commitment": "Quick - Under 1hr",
+    "availability": "Sundays",
+    "remote": "No",
+    "requirements": "Training provided",
+    "notes": ""
+  },
+  {
+    "id": 40,
+    "portfolio": "Next Gen",
+    "role": "Kids - Additional Needs Buddy",
+    "campus": "Werribee",
+    "summary": "Walk alongside a child with additional needs, helping them feel safe, included and able to participate in CatalystKids.",
+    "interests": [
+      "Caring for Others",
+      "Seeing People Grow",
+      "Building Relationships"
+    ],
+    "styles": [
+      "People & Relationships"
+    ],
+    "frequency": "Rostered",
+    "commitment": "A few hours",
+    "availability": "Sundays",
+    "remote": "No",
+    "requirements": "No experience needed",
+    "notes": ""
+  },
+  {
+    "id": 41,
+    "portfolio": "Next Gen",
+    "role": "Kids – Additional Needs Coordinator",
+    "campus": "Werribee",
+    "summary": "Support and equip our team to create an inclusive environment where every child can belong and thrive.",
+    "interests": [
+      "Caring for Others",
+      "Seeing People Grow",
+      "Helping People"
+    ],
+    "styles": [
+      "Leading & Developing Others",
+      "People & Relationships"
+    ],
+    "frequency": "Monthly",
+    "commitment": "Half a day",
+    "availability": "Flexible",
+    "remote": "No",
+    "requirements": "Bring your skills",
+    "notes": ""
+  },
+  {
+    "id": 42,
+    "portfolio": "Next Gen",
+    "role": "Kids - Newcomers Host",
+    "campus": "Werribee",
+    "summary": "Welcome new families, answer questions and help every child feel at home from their very first visit.",
+    "interests": [
+      "Making People Feel Welcome",
+      "Building Relationships",
+      "Helping People"
+    ],
+    "styles": [
+      "People & Relationships"
+    ],
+    "frequency": "Rostered",
+    "commitment": "A few hours",
+    "availability": "Sundays",
+    "remote": "No",
+    "requirements": "Training provided",
+    "notes": ""
+  },
+  {
+    "id": 43,
+    "portfolio": "Next Gen",
+    "role": "Kids – Parents Room Manager",
+    "campus": "Werribee",
+    "summary": "Create and manage a welcoming, well-equipped space where parents of young children can stay connected while caring for their littlest ones.",
+    "interests": [
+      "Making People Feel Welcome",
+      "Caring for Others",
+      "Creating Great Experiences"
+    ],
+    "styles": [
+      "Leading & Developing Others",
+      "Organising & Admin"
+    ],
+    "frequency": "Weekly",
+    "commitment": "Quick - Under 1hr",
+    "availability": "Sundays",
+    "remote": "No",
+    "requirements": "No experience needed",
+    "notes": ""
+  },
+  {
+    "id": 44,
+    "portfolio": "Next Gen",
+    "role": "Kids – Parents Room Host",
+    "campus": "Werribee",
+    "summary": "Welcome families into the Cry Room, offer a friendly face and help create a calm and comfortable environment.",
+    "interests": [
+      "Making People Feel Welcome",
+      "Caring for Others",
+      "Building Relationships"
+    ],
+    "styles": [
+      "People & Relationships"
+    ],
+    "frequency": "Rostered",
+    "commitment": "Quick - Under 1hr",
+    "availability": "Sundays",
+    "remote": "No",
+    "requirements": "No experience needed",
+    "notes": ""
+  },
+  {
+    "id": 45,
+    "portfolio": "Next Gen",
+    "role": "Kids – Midweek Prep Team",
+    "campus": "Werribee",
+    "summary": "Help prepare resources, crafts and activities during the week so Sunday is ready to go.",
+    "interests": [
+      "Creating & Making",
+      "Helping People",
+      "Working With My Hands"
+    ],
+    "styles": [
+      "Practical & Hands-On",
+      "Creative & Content"
+    ],
+    "frequency": "Weekly",
+    "commitment": "A few hours",
+    "availability": "Midweek",
+    "remote": "Yes",
+    "requirements": "No experience needed",
+    "notes": ""
+  },
+  {
+    "id": 46,
+    "portfolio": "Next Gen",
+    "role": "Kids – Foyer Supervisor",
+    "campus": "Werribee",
+    "summary": "Lead the Sunday welcome experience by helping families check in safely and making every arrival warm and easy.",
+    "interests": [
+      "Making People Feel Welcome",
+      "Building Relationships",
+      "Creating Great Experiences"
+    ],
+    "styles": [
+      "Leading & Developing Others",
+      "People & Relationships"
+    ],
+    "frequency": "Rostered",
+    "commitment": "A few hours",
+    "availability": "Sundays",
+    "remote": "No",
+    "requirements": "Training provided",
+    "notes": ""
+  },
+  {
+    "id": 47,
+    "portfolio": "Next Gen",
+    "role": "Kids – Primary Coordinator",
+    "campus": "Werribee",
+    "summary": "Oversee the Primary program each week, ensuring all is set and prepped, encouraging leaders and creating a fun, safe environment for our kids.",
+    "interests": [
+      "Seeing People Grow",
+      "Creating Great Experiences",
+      "Helping People"
+    ],
+    "styles": [
+      "Leading & Developing Others",
+      "Organising & Admin"
+    ],
+    "frequency": "Weekly",
+    "commitment": "Half a day",
+    "availability": "Flexible",
+    "remote": "No",
+    "requirements": "Bring your skills",
+    "notes": ""
+  },
+  {
+    "id": 48,
+    "portfolio": "Next Gen",
+    "role": "Kids – Preschool Coordinator",
+    "campus": "Werribee",
+    "summary": "Oversee the Preschool program each week, ensuring all is set and prepped, encouraging leaders and creating a fun, safe environment for our youngest kids.",
+    "interests": [
+      "Seeing People Grow",
+      "Creating Great Experiences",
+      "Caring for Others"
+    ],
+    "styles": [
+      "Leading & Developing Others",
+      "Organising & Admin"
+    ],
+    "frequency": "Weekly",
+    "commitment": "Half a day",
+    "availability": "Flexible",
+    "remote": "No",
+    "requirements": "Bring your skills",
+    "notes": ""
+  },
+  {
+    "id": 49,
+    "portfolio": "Next Gen",
+    "role": "Kids - KinderZone Team Leader",
+    "campus": "Werribee",
+    "summary": "Lead and encourage the KinderZone team on a Sunday while creating a joyful, engaging space for preschoolers.",
+    "interests": [
+      "Seeing People Grow",
+      "Creating Great Experiences",
+      "Building Relationships"
+    ],
+    "styles": [
+      "Leading & Developing Others",
+      "People & Relationships"
+    ],
+    "frequency": "Rostered",
+    "commitment": "A few hours",
+    "availability": "Sunday",
+    "remote": "No",
+    "requirements": "Training provided",
+    "notes": ""
+  },
+  {
+    "id": 50,
+    "portfolio": "Next Gen",
+    "role": "Kids - ToddlerZone Team Leader",
+    "campus": "Werribee",
+    "summary": "Lead and encourage the ToddlerZone team on a Sunday while creating a joyful, engaging space for toddlers.",
+    "interests": [
+      "Seeing People Grow",
+      "Creating Great Experiences",
+      "Caring for Others"
+    ],
+    "styles": [
+      "Leading & Developing Others",
+      "People & Relationships"
+    ],
+    "frequency": "Rostered",
+    "commitment": "A few hours",
+    "availability": "Sunday",
+    "remote": "No",
+    "requirements": "Training provided",
+    "notes": ""
+  },
+  {
+    "id": 51,
+    "portfolio": "Next Gen",
+    "role": "Kids – Setup Team",
+    "campus": "All",
+    "summary": "Help transform our spaces before services begin by setting up rooms that are fun and ready for kids to learn.",
+    "interests": [
+      "Working With My Hands",
+      "Creating Great Experiences",
+      "Helping People"
+    ],
+    "styles": [
+      "Practical & Hands-On"
+    ],
+    "frequency": "Rostered",
+    "commitment": "Quick - Under 1hr",
+    "availability": "Sunday",
+    "remote": "No",
+    "requirements": "No experience needed",
+    "notes": ""
+  },
+  {
+    "id": 52,
+    "portfolio": "Next Gen",
+    "role": "Youth – Small Group Leader",
+    "campus": "All",
+    "summary": "Invest in a small group of teenagers on a Friday Night by building relationships, leading discussions and helping them grow in their faith.",
+    "interests": [
+      "Seeing People Grow",
+      "Building Relationships",
+      "Sharing Faith"
+    ],
+    "styles": [
+      "People & Relationships",
+      "Leading & Developing Others"
+    ],
+    "frequency": "Rostered",
+    "commitment": "A few hours",
+    "availability": "Friday Night",
+    "remote": "No",
+    "requirements": "Training provided",
+    "notes": ""
+  },
+  {
+    "id": 53,
+    "portfolio": "Next Gen",
+    "role": "Youth – Adult Leader",
+    "campus": "All",
+    "summary": "Be a positive, consistent presence at Youth, building relationships and supporting young people.",
+    "interests": [
+      "Seeing People Grow",
+      "Building Relationships",
+      "Caring for Others"
+    ],
+    "styles": [
+      "People & Relationships"
+    ],
+    "frequency": "Rostered",
+    "commitment": "A few hours",
+    "availability": "Friday Night",
+    "remote": "No",
+    "requirements": "Training provided",
+    "notes": ""
+  },
+  {
+    "id": 54,
+    "portfolio": "Next Gen",
+    "role": "Youth – Setup Team",
+    "campus": "All",
+    "summary": "Help prepare our space on Friday afternoons, creating an environment where every teenager feels welcome.",
+    "interests": [
+      "Working With My Hands",
+      "Creating Great Experiences",
+      "Making People Feel Welcome"
+    ],
+    "styles": [
+      "Practical & Hands-On"
+    ],
+    "frequency": "Rostered",
+    "commitment": "Quick - Under 1hr",
+    "availability": "Fridays",
+    "remote": "No",
+    "requirements": "No experience needed",
+    "notes": ""
+  },
+  {
+    "id": 55,
+    "portfolio": "Next Gen",
+    "role": "Youth – Supper Team",
+    "campus": "All",
+    "summary": "Prepare and serve food and create opportunities for connection by providing supper on a Friday night roster.",
+    "interests": [
+      "Making People Feel Welcome",
+      "Building Relationships",
+      "Helping People"
+    ],
+    "styles": [
+      "Practical & Hands-On",
+      "People & Relationships"
+    ],
+    "frequency": "Rostered",
+    "commitment": "Quick - Under 1hr",
+    "availability": "Friday Night",
+    "remote": "Yes",
+    "requirements": "No experience needed",
+    "notes": ""
+  },
+  {
+    "id": 56,
+    "portfolio": "Next Gen",
+    "role": "Youth – Foyer Supervisor",
+    "campus": "Werribee",
+    "summary": "Welcome young people and families, oversee check-in and create a safe first impression each Friday night.",
+    "interests": [
+      "Making People Feel Welcome",
+      "Building Relationships",
+      "Creating Great Experiences"
+    ],
+    "styles": [
+      "People & Relationships",
+      "Leading & Developing Others"
+    ],
+    "frequency": "Rostered",
+    "commitment": "A few hours",
+    "availability": "Friday Night",
+    "remote": "No",
+    "requirements": "Training provided",
+    "notes": ""
+  },
+  {
+    "id": 57,
+    "portfolio": "Next Gen",
+    "role": "NextGen – Decor Team",
+    "campus": "All",
+    "summary": "Use your creativity to design welcoming spaces that help kids, youth and families feel excited to be here.",
+    "interests": [
+      "Creating & Making",
+      "Creating Great Experiences",
+      "Making People Feel Welcome"
+    ],
+    "styles": [
+      "Creative & Content",
+      "Practical & Hands-On"
+    ],
+    "frequency": "As needed",
+    "commitment": "A few hours",
+    "availability": "Flexible",
+    "remote": "No",
+    "requirements": "No experience needed",
+    "notes": ""
+  },
+  {
+    "id": 58,
+    "portfolio": "Next Gen",
+    "role": "NextGen – Newcomer Follow Up",
+    "campus": "All",
+    "summary": "Help families feel seen by connecting with first-time guests mid-week and helping them take next steps.",
+    "interests": [
+      "Making People Feel Welcome",
+      "Building Relationships",
+      "Helping People"
+    ],
+    "styles": [
+      "People & Relationships"
+    ],
+    "frequency": "Weekly",
+    "commitment": "Quick - Under 1hr",
+    "availability": "Flexible",
+    "remote": "Yes",
+    "requirements": "Training provided",
+    "notes": ""
+  },
+  {
+    "id": 59,
+    "portfolio": "Next Gen",
+    "role": "NextGen – Birthday Admin",
+    "campus": "All",
+    "summary": "Celebrate every child and team member by coordinating birthday messages that help them know they are valued.",
+    "interests": [
+      "Caring for Others",
+      "Helping People",
+      "Bringing Order"
+    ],
+    "styles": [
+      "Organising & Admin"
+    ],
+    "frequency": "Monthly",
+    "commitment": "A few hours",
+    "availability": "Flexible",
+    "remote": "Yes",
+    "requirements": "No experience needed",
+    "notes": ""
+  },
+  {
+    "id": 60,
+    "portfolio": "Next Gen",
+    "role": "NextGen – Rostering Admin",
+    "campus": "All",
+    "summary": "Support our volunteer teams by coordinating rosters and helping ensure every role is covered each week.",
+    "interests": [
+      "Bringing Order",
+      "Helping People",
+      "Solving Problems"
+    ],
+    "styles": [
+      "Organising & Admin"
+    ],
+    "frequency": "Weekly",
+    "commitment": "A few hours",
+    "availability": "Flexible",
+    "remote": "Yes",
+    "requirements": "Training provided",
+    "notes": ""
+  },
+  {
+    "id": 61,
+    "portfolio": "Resources",
+    "role": "Library Assistant",
+    "campus": "Werribee",
+    "summary": "Helps log & label new materials, tidy/reset shelves weekly, sort resources, etc.",
+    "interests": [
+      "Bringing Order",
+      "Helping People"
+    ],
+    "styles": [
+      "Organising & Admin",
+      "Practical & Hands-On"
+    ],
+    "frequency": "Weekly",
+    "commitment": "Quick - Under 1hr",
+    "availability": "Flexible",
+    "remote": "No",
+    "requirements": "No experience needed",
+    "notes": ""
+  },
+  {
+    "id": 62,
+    "portfolio": "Resources",
+    "role": "RightNow Media Curator",
+    "campus": "All",
+    "summary": "Develop RNM channels w/regular updates",
+    "interests": [
+      "Creating & Making",
+      "Sharing Faith",
+      "Seeing People Grow"
+    ],
+    "styles": [
+      "Creative & Content",
+      "Organising & Admin"
+    ],
+    "frequency": "Monthly",
+    "commitment": "A few hours",
+    "availability": "Flexible",
+    "remote": "Yes",
+    "requirements": "Training provided",
+    "notes": ""
+  },
+  {
+    "id": 63,
+    "portfolio": "Resources",
+    "role": "Quiet Time Tool Assistant",
+    "campus": "All",
+    "summary": "Coordinate calendars & sermon series, etc. for prayer points monthly, track readings, uptake",
+    "interests": [
+      "Bringing Order",
+      "Sharing Faith",
+      "Seeing People Grow"
+    ],
+    "styles": [
+      "Organising & Admin"
+    ],
+    "frequency": "Monthly",
+    "commitment": "A few hours",
+    "availability": "Flexible",
+    "remote": "Yes",
+    "requirements": "Training provided",
+    "notes": ""
+  },
+  {
+    "id": 64,
+    "portfolio": "Local Mission",
+    "role": "KidsHope Mentors",
+    "campus": "Either",
+    "summary": "Mentor and invest into a primary school student by visiting them for 1 hour a week",
+    "interests": [
+      "Seeing People Grow",
+      "Building Relationships",
+      "Making a Community Difference"
+    ],
+    "styles": [
+      "People & Relationships"
+    ],
+    "frequency": "Weekly",
+    "commitment": "Quick - Under 1hr",
+    "availability": "Midweek",
+    "remote": "No",
+    "requirements": "Training provided",
+    "notes": ""
+  },
+  {
+    "id": 65,
+    "portfolio": "Local Mission",
+    "role": "KidsHope School Liaison",
+    "campus": "Either",
+    "summary": "Identify & build relationships with leadership in local schools for mentoring opportunities",
+    "interests": [
+      "Building Relationships",
+      "Making a Community Difference",
+      "Helping People"
+    ],
+    "styles": [
+      "People & Relationships"
+    ],
+    "frequency": "Monthly",
+    "commitment": "Quick - Under 1hr",
+    "availability": "Midweek",
+    "remote": "Yes",
+    "requirements": "Training provided",
+    "notes": ""
+  },
+  {
+    "id": 66,
+    "portfolio": "Local Mission",
+    "role": "Mentor Chaplain",
+    "campus": "All",
+    "summary": "Provide pastoral care to mentors on a regular basis; organise quarterly group check-ins/debriefs; recruitment of new mentors",
+    "interests": [
+      "Caring for Others",
+      "Seeing People Grow",
+      "Building Relationships"
+    ],
+    "styles": [
+      "People & Relationships",
+      "Leading & Developing Others"
+    ],
+    "frequency": "Monthly",
+    "commitment": "A few hours",
+    "availability": "Flexible",
+    "remote": "Yes",
+    "requirements": "Bring your skills",
+    "notes": ""
+  },
+  {
+    "id": 67,
+    "portfolio": "Local Mission",
+    "role": "CommunityAssist Support",
+    "campus": "Werribee",
+    "summary": "Monthly stocktake, online shopping. Checking partner documents to make sure info is still relevant. Assisting with appointments on a rostering model. Follow-up calls.",
+    "interests": [
+      "Helping People",
+      "Bringing Order",
+      "Making a Community Difference"
+    ],
+    "styles": [
+      "Organising & Admin",
+      "People & Relationships"
+    ],
+    "frequency": "Monthly",
+    "commitment": "A few hours",
+    "availability": "Midweek",
+    "remote": "No",
+    "requirements": "No experience needed",
+    "notes": ""
+  },
+  {
+    "id": 68,
+    "portfolio": "Local Mission",
+    "role": "CommunityAssist Liaison",
+    "campus": "Werribee",
+    "summary": "Develop & promote food drive strategies to engage wider Catalyst community involvement; work with other local food relief programs",
+    "interests": [
+      "Making a Community Difference",
+      "Building Relationships",
+      "Helping People"
+    ],
+    "styles": [
+      "People & Relationships",
+      "Organising & Admin"
+    ],
+    "frequency": "Monthly",
+    "commitment": "A few hours",
+    "availability": "Midweek",
+    "remote": "Yes",
+    "requirements": "Training provided",
+    "notes": ""
+  },
+  {
+    "id": 69,
+    "portfolio": "Local Mission",
+    "role": "FamilyHub - Setup",
+    "campus": "Either",
+    "summary": "Setting up the hub spaces on Sundays. Cleaning and tiding after the hub. Creating fun activities.",
+    "interests": [
+      "Working With My Hands",
+      "Creating Great Experiences",
+      "Making People Feel Welcome"
+    ],
+    "styles": [
+      "Practical & Hands-On"
+    ],
+    "frequency": "Weekly",
+    "commitment": "Quick - Under 1hr",
+    "availability": "Sunday",
+    "remote": "No",
+    "requirements": "No experience needed",
+    "notes": ""
+  },
+  {
+    "id": 70,
+    "portfolio": "Local Mission",
+    "role": "FamilyHub – Team Member",
+    "campus": "Either",
+    "summary": "Making coffee and serving the families. Follow-up with families visiting. Helping with school holiday activities.",
+    "interests": [
+      "Making People Feel Welcome",
+      "Building Relationships",
+      "Helping People"
+    ],
+    "styles": [
+      "People & Relationships",
+      "Practical & Hands-On"
+    ],
+    "frequency": "Rostered",
+    "commitment": "A few hours",
+    "availability": "Midweek",
+    "remote": "No",
+    "requirements": "No experience needed",
+    "notes": ""
+  },
+  {
+    "id": 71,
+    "portfolio": "Local Mission",
+    "role": "FamilyHub – Baker",
+    "campus": "Either",
+    "summary": "Bake items for the FamilyHub café.",
+    "interests": [
+      "Helping People",
+      "Creating & Making",
+      "Making People Feel Welcome"
+    ],
+    "styles": [
+      "Practical & Hands-On"
+    ],
+    "frequency": "Rostered",
+    "commitment": "Quick - Under 1hr",
+    "availability": "Midweek",
+    "remote": "Yes",
+    "requirements": "Bring your skills",
+    "notes": ""
+  },
+  {
+    "id": 72,
+    "portfolio": "Local Mission",
+    "role": "FamilyHub - Resources",
+    "campus": "Werribee",
+    "summary": "Resources like more relevant books to help struggling families. Stocktake of items needed during the week.",
+    "interests": [
+      "Helping People",
+      "Bringing Order",
+      "Making a Community Difference"
+    ],
+    "styles": [
+      "Organising & Admin"
+    ],
+    "frequency": "As needed",
+    "commitment": "A few hours",
+    "availability": "Flexible",
+    "remote": "No",
+    "requirements": "No experience needed",
+    "notes": ""
+  },
+  {
+    "id": 73,
+    "portfolio": "Local Mission",
+    "role": "FamilyHub – Toy Curator",
+    "campus": "Werribee",
+    "summary": "Check and clean toys as needed in all areas of ministry.",
+    "interests": [
+      "Caring for Others",
+      "Working With My Hands",
+      "Bringing Order"
+    ],
+    "styles": [
+      "Practical & Hands-On",
+      "Organising & Admin"
+    ],
+    "frequency": "As needed",
+    "commitment": "Quick - Under 1hr",
+    "availability": "Flexible",
+    "remote": "No",
+    "requirements": "No experience needed",
+    "notes": ""
+  },
+  {
+    "id": 74,
+    "portfolio": "Local Mission",
+    "role": "MumCo – Team Member",
+    "campus": "Werribee",
+    "summary": "Leaders to help support during event and setup/packdown. Mentors to support the families. Advertising and promoting.",
+    "interests": [
+      "Caring for Others",
+      "Building Relationships",
+      "Making People Feel Welcome"
+    ],
+    "styles": [
+      "People & Relationships",
+      "Practical & Hands-On"
+    ],
+    "frequency": "Monthly",
+    "commitment": "A few hours",
+    "availability": "Thursday Night",
+    "remote": "No",
+    "requirements": "Training provided",
+    "notes": ""
+  },
+  {
+    "id": 75,
+    "portfolio": "Local Mission",
+    "role": "CommunityMeal - Admin",
+    "campus": "Werribee",
+    "summary": "Help maintain rosters, assess resource needs, coverage for absences. Personal followup.",
+    "interests": [
+      "Bringing Order",
+      "Helping People",
+      "Caring for Others"
+    ],
+    "styles": [
+      "Organising & Admin",
+      "People & Relationships"
+    ],
+    "frequency": "Monthly",
+    "commitment": "A few hours",
+    "availability": "Flexible",
+    "remote": "Yes",
+    "requirements": "Training provided",
+    "notes": ""
+  },
+  {
+    "id": 76,
+    "portfolio": "Local Mission",
+    "role": "CommunityMeal - Support",
+    "campus": "Werribee",
+    "summary": "Kitchen hands – food prep, dishes, distribution, setup/cleanup.",
+    "interests": [
+      "Helping People",
+      "Working With My Hands",
+      "Making a Community Difference"
+    ],
+    "styles": [
+      "Practical & Hands-On"
+    ],
+    "frequency": "Rostered",
+    "commitment": "A few hours",
+    "availability": "Thursday Night",
+    "remote": "No",
+    "requirements": "No experience needed",
+    "notes": ""
+  },
+  {
+    "id": 77,
+    "portfolio": "Local Mission",
+    "role": "CommunityMeal - Table Hosts",
+    "campus": "Werribee",
+    "summary": "Engage in spiritual conversations, link attendees to resources, promote Catalyst activities",
+    "interests": [
+      "Building Relationships",
+      "Sharing Faith",
+      "Making People Feel Welcome"
+    ],
+    "styles": [
+      "People & Relationships"
+    ],
+    "frequency": "Weekly",
+    "commitment": "A few hours",
+    "availability": "Thursday Night",
+    "remote": "No",
+    "requirements": "No experience needed",
+    "notes": ""
+  },
+  {
+    "id": 78,
+    "portfolio": "Local Mission",
+    "role": "CommunityMeal - Families support",
+    "campus": "Werribee",
+    "summary": "Prep faith-based materials (colour sheets, etc.) Provide additional support help to parents. Create fun engagement – games, etc.",
+    "interests": [
+      "Caring for Others",
+      "Creating & Making",
+      "Helping People"
+    ],
+    "styles": [
+      "People & Relationships",
+      "Creative & Content"
+    ],
+    "frequency": "Monthly",
+    "commitment": "A few hours",
+    "availability": "Thursday Night",
+    "remote": "Yes",
+    "requirements": "Training provided",
+    "notes": ""
+  },
+  {
+    "id": 79,
+    "portfolio": "Local Mission",
+    "role": "CommunityMeal – Faith Leader",
+    "campus": "Werribee",
+    "summary": "Help plan & deliver discipleship content every Thursday night for meal attendees",
+    "interests": [
+      "Sharing Faith",
+      "Seeing People Grow",
+      "Building Relationships"
+    ],
+    "styles": [
+      "Leading & Developing Others",
+      "People & Relationships"
+    ],
+    "frequency": "Weekly",
+    "commitment": "Quick - Under 1hr",
+    "availability": "Thursday Night",
+    "remote": "No",
+    "requirements": "Training provided",
+    "notes": ""
+  },
+  {
+    "id": 80,
+    "portfolio": "Local Mission",
+    "role": "Grant Writer",
+    "campus": "All",
+    "summary": "Seeks new available funding, filing applications and reports for community funding.",
+    "interests": [
+      "Making a Community Difference",
+      "Solving Problems",
+      "Bringing Order"
+    ],
+    "styles": [
+      "Organising & Admin",
+      "Creative & Content"
+    ],
+    "frequency": "As needed",
+    "commitment": "Ongoing",
+    "availability": "Flexible",
+    "remote": "Yes",
+    "requirements": "Bring your skills",
+    "notes": ""
+  },
+  {
+    "id": 81,
+    "portfolio": "Local Mission",
+    "role": "Researchers",
+    "campus": "All",
+    "summary": "Identify & engage with local council and NGOs to identify potential partnerships and needs.",
+    "interests": [
+      "Making a Community Difference",
+      "Solving Problems",
+      "Building Relationships"
+    ],
+    "styles": [
+      "Organising & Admin",
+      "People & Relationships"
+    ],
+    "frequency": "As needed",
+    "commitment": "Ongoing",
+    "availability": "Flexible",
+    "remote": "Yes",
+    "requirements": "Bring your skills",
+    "notes": ""
+  },
+  {
+    "id": 82,
+    "portfolio": "Local Mission",
+    "role": "Social Media Assistant",
+    "campus": "All",
+    "summary": "Facilitate posting and engagement across Community Services social media properties",
+    "interests": [
+      "Creating & Making",
+      "Making a Community Difference"
+    ],
+    "styles": [
+      "Creative & Content",
+      "Tech & Production"
+    ],
+    "frequency": "Weekly",
+    "commitment": "Quick - Under 1hr",
+    "availability": "Flexible",
+    "remote": "Yes",
+    "requirements": "Training provided",
+    "notes": ""
+  },
+  {
+    "id": 83,
+    "portfolio": "Local Mission",
+    "role": "Community Garden – Team Member",
+    "campus": "Bacchus Marsh",
+    "summary": "Help maintain the Community Art Garden and connect with community contacts.",
+    "interests": [
+      "Making a Community Difference",
+      "Working With My Hands",
+      "Building Relationships"
+    ],
+    "styles": [
+      "Practical & Hands-On",
+      "People & Relationships"
+    ],
+    "frequency": "Monthly",
+    "commitment": "A few hours",
+    "availability": "Flexible",
+    "remote": "No",
+    "requirements": "No experience needed",
+    "notes": ""
+  },
+  {
+    "id": 84,
+    "portfolio": "Global Mission",
+    "role": "Mission Team Coordinator",
+    "campus": "All",
+    "summary": "Help develop policy, build mission care team, schedules regular meetings",
+    "interests": [
+      "Making a Community Difference",
+      "Bringing Order",
+      "Sharing Faith"
+    ],
+    "styles": [
+      "Leading & Developing Others",
+      "Organising & Admin"
+    ],
+    "frequency": "As needed",
+    "commitment": "Ongoing",
+    "availability": "Flexible",
+    "remote": "Yes",
+    "requirements": "Training provided",
+    "notes": ""
+  },
+  {
+    "id": 85,
+    "portfolio": "Global Mission",
+    "role": "Mission Prayer Liaison",
+    "campus": "All",
+    "summary": "Read prayer letters/communications from global partners & distribute across ministries.",
+    "interests": [
+      "Sharing Faith",
+      "Caring for Others",
+      "Making a Community Difference"
+    ],
+    "styles": [
+      "Organising & Admin"
+    ],
+    "frequency": "As needed",
+    "commitment": "Ongoing",
+    "availability": "Flexible",
+    "remote": "Yes",
+    "requirements": "No experience needed",
+    "notes": ""
+  },
+  {
+    "id": 86,
+    "portfolio": "Global Mission",
+    "role": "Global Worker Support",
+    "campus": "All",
+    "summary": "Maintain regular contact schedule to identify needs (i.e. support, practical, etc.); provide home assignment assist; help in team trips.",
+    "interests": [
+      "Caring for Others",
+      "Building Relationships",
+      "Making a Community Difference"
+    ],
+    "styles": [
+      "People & Relationships",
+      "Organising & Admin"
+    ],
+    "frequency": "As needed",
+    "commitment": "Ongoing",
+    "availability": "Flexible",
+    "remote": "Yes",
+    "requirements": "Training provided",
+    "notes": ""
+  },
+  {
+    "id": 87,
+    "portfolio": "Venues",
+    "role": "Casual – AV Technician",
+    "campus": "Werribee",
+    "summary": "Coordinate AV requirements and facility support for external events midweek and weekends.",
+    "interests": [
+      "Solving Problems",
+      "Creating Great Experiences",
+      "Helping People"
+    ],
+    "styles": [
+      "Tech & Production"
+    ],
+    "frequency": "As needed",
+    "commitment": "A few hours",
+    "availability": "Flexible",
+    "remote": "No",
+    "requirements": "Training provided",
+    "notes": ""
+  },
+  {
+    "id": 88,
+    "portfolio": "Venues",
+    "role": "Decorator",
+    "campus": "All",
+    "summary": "Upkeep & refreshes décor including furniture, décor, accessories (i.e. diffusers)",
+    "interests": [
+      "Creating & Making",
+      "Creating Great Experiences",
+      "Working With My Hands"
+    ],
+    "styles": [
+      "Creative & Content",
+      "Practical & Hands-On"
+    ],
+    "frequency": "As needed",
+    "commitment": "A few hours",
+    "availability": "Flexible",
+    "remote": "No",
+    "requirements": "No experience needed",
+    "notes": ""
+  },
+  {
+    "id": 89,
+    "portfolio": "Venues",
+    "role": "Event Barista",
+    "campus": "Werribee",
+    "summary": "Manage the cafe during specified external events",
+    "interests": [
+      "Making People Feel Welcome",
+      "Building Relationships",
+      "Creating Great Experiences"
+    ],
+    "styles": [
+      "People & Relationships",
+      "Practical & Hands-On"
+    ],
+    "frequency": "As needed",
+    "commitment": "A few hours",
+    "availability": "Flexible",
+    "remote": "No",
+    "requirements": "Training provided",
+    "notes": ""
+  },
+  {
+    "id": 90,
+    "portfolio": "Venues",
+    "role": "Washing Assistance",
+    "campus": "Werribee",
+    "summary": "Collect and take home to wash: Tea Towels, Baptism Towels, Table Cloths, Aprons as required",
+    "interests": [
+      "Helping People",
+      "Working With My Hands"
+    ],
+    "styles": [
+      "Practical & Hands-On"
+    ],
+    "frequency": "As needed",
+    "commitment": "Quick - Under 1hr",
+    "availability": "Flexible",
+    "remote": "Yes",
+    "requirements": "No experience needed",
+    "notes": ""
+  },
+  {
+    "id": 91,
+    "portfolio": "Administration",
+    "role": "Records Review",
+    "campus": "Werribee",
+    "summary": "Clear & digitise filing cabinets, shredding, storage",
+    "interests": [
+      "Bringing Order",
+      "Solving Problems"
+    ],
+    "styles": [
+      "Organising & Admin",
+      "Practical & Hands-On"
+    ],
+    "frequency": "As needed",
+    "commitment": "Ongoing",
+    "availability": "Midweek",
+    "remote": "No",
+    "requirements": "No experience needed",
+    "notes": ""
+  },
+  {
+    "id": 92,
+    "portfolio": "Administration",
+    "role": "Supply Restock / Facility Stocktake",
+    "campus": "Werribee",
+    "summary": "Midweek opportunity to keep areas stocked up with supplies, and ensure spaces are ready.",
+    "interests": [
+      "Bringing Order",
+      "Helping People",
+      "Working With My Hands"
+    ],
+    "styles": [
+      "Practical & Hands-On",
+      "Organising & Admin"
+    ],
+    "frequency": "Weekly",
+    "commitment": "Quick - Under 1hr",
+    "availability": "Midweek",
+    "remote": "No",
+    "requirements": "No experience needed",
+    "notes": ""
+  },
+  {
+    "id": 93,
+    "portfolio": "Administration",
+    "role": "Database Maintenance",
+    "campus": "Werribee",
+    "summary": "Check & update digital database profiles for missing/incorrect information",
+    "interests": [
+      "Bringing Order",
+      "Solving Problems",
+      "Helping People"
+    ],
+    "styles": [
+      "Organising & Admin",
+      "Tech & Production"
+    ],
+    "frequency": "As needed",
+    "commitment": "Ongoing",
+    "availability": "Midweek",
+    "remote": "Yes",
+    "requirements": "Training provided",
+    "notes": ""
+  },
+  {
+    "id": 94,
+    "portfolio": "Administration",
+    "role": "Asset Manager",
+    "campus": "All",
+    "summary": "Identify & log assets, location, condition, duplication, etc. across campuses. Develop a system of asset management.",
+    "interests": [
+      "Bringing Order",
+      "Solving Problems",
+      "Working With My Hands"
+    ],
+    "styles": [
+      "Organising & Admin",
+      "Practical & Hands-On"
+    ],
+    "frequency": "As needed",
+    "commitment": "Ongoing",
+    "availability": "Midweek",
+    "remote": "No",
+    "requirements": "Training provided",
+    "notes": ""
+  }
+]
