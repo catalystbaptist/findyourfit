@@ -20,7 +20,7 @@ button, input, select { font: inherit; }
 button, summary, select { cursor: pointer; }
 button:focus-visible, input:focus-visible, select:focus-visible, summary:focus-visible { outline: 3px solid rgba(0,187,206,.38); outline-offset: 3px; }
 .app-shell { max-width: 1180px; margin: 0 auto; padding: 0 24px 72px; }
-.hero { position: relative; overflow: hidden; margin: 0 -24px; padding: 72px max(24px, calc((100vw - 1132px)/2)) 62px; color: #fff; background: var(--navy); }
+.hero { position: relative; overflow: hidden; margin: 0 -24px; padding: 72px 48px 62px; color: #fff; background: var(--navy); }
 .hero::after { content: ""; position: absolute; width: 310px; height: 310px; right: -65px; top: -100px; border: 52px solid var(--cyan); border-radius: 50%; opacity: .9; }
 .eyebrow, .step-label { margin: 0 0 10px; font-weight: 700; letter-spacing: .11em; text-transform: uppercase; font-size: .78rem; }
 .eyebrow { color: #fff; }
@@ -108,5 +108,9 @@ dialog::backdrop { background: rgba(12, 29, 24, .65); backdrop-filter: blur(3px)
   .search-label { width: 100%; }
   .role-card { min-height: 270px; }
   #dialog-content { padding: 32px 22px 24px; }
+}
+@media (min-width: 1500px) {
+  .hero { padding-right: 72px; padding-left: 72px; }
+  .hero-copy { max-width: 720px; }
 }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } *, *::before, *::after { transition: none !important; } }
