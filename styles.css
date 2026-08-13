@@ -44,9 +44,10 @@ h2 { margin: 0; font-size: clamp(1.7rem, 3vw, 2.35rem); }
 .choice[aria-pressed="true"], .chip[aria-pressed="true"] { color: #fff; border-color: var(--navy); background: var(--navy); }
 .choice[aria-pressed="true"]::before { color: var(--pink); }
 .more-filters { margin-top: 16px; border-top: 1px solid var(--line); }
-.more-filters summary { display: flex; justify-content: space-between; padding: 15px 2px 0; font-weight: 700; list-style: none; }
+.more-filters summary { display: flex; justify-content: space-between; align-items: center; gap: 16px; margin: 12px -10px -4px; padding: 12px 14px; border-radius: 10px; color: var(--navy); background: var(--tint); font-weight: 700; list-style: none; }
+.more-filters summary::after { content: "Show filters  +"; flex: 0 0 auto; padding: 6px 10px; border-radius: 999px; color: #fff; background: var(--navy); font-size: .78rem; letter-spacing: .01em; }
+.more-filters[open] summary::after { content: "Hide filters  −"; }
 .more-filters summary::-webkit-details-marker { display: none; }
-.more-filters[open] summary span { transform: rotate(45deg); }
 .filter-panel { padding-top: 22px; }
 .filter-group h3 { margin: 0 0 10px; font-size: 1rem; letter-spacing: 0; }
 .chip-list, .active-filters { display: flex; flex-wrap: wrap; gap: 8px; }
