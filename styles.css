@@ -10,8 +10,8 @@
   --tint: #eaf9fb;
   --line: #dedfea;
   --shadow: 0 18px 48px rgba(40, 40, 99, .12);
-  --headline: "Contempora Sans Condensed", "DIN Condensed", "Arial Narrow", sans-serif;
-  --body: "DIN", "DIN 2014", "DIN Next", Arial, sans-serif;
+  --headline: "Arial Narrow", "Helvetica Neue Condensed", Impact, sans-serif;
+  --body: Arial, Helvetica, sans-serif;
 }
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
