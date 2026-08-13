@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Find a serving opportunity at Catalyst that fits you.">
+  <title>Find Your Fit | Catalyst Baptist Church</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&family=Poppins:wght@500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css?v=20260814-1">
+</head>
+<body>
+  <main class="embed-shell">
+    <section class="finder" aria-label="Volunteer opportunity finder">
+      <div class="finder-header">
+        <div>
+          <p class="step-label">Find your fit</p>
+          <h2>What sounds like you?</h2>
+          <p class="finder-intro">Choose one or more interests to discover serving opportunities that could suit you.</p>
+        </div>
+        <button id="clear-all" class="clear-button" type="button" hidden>Clear all</button>
+      </div>
+      <div id="interest-filters" class="choice-grid" aria-label="Filter by interests"></div>
+
+      <details class="more-filters">
+        <summary><span>Refine by availability, time or location</span></summary>
+        <div class="filter-panel">
+          <div class="filter-group">
+            <h3>How do you like to contribute?</h3>
+            <div id="style-filters" class="chip-list"></div>
+          </div>
+          <div class="filter-row">
+            <label>When can you help?
+              <select id="availability-filter"><option value="">Any time</option></select>
+            </label>
+            <label>How much time?
+              <select id="commitment-filter"><option value="">Any amount</option></select>
+            </label>
+            <label>Where?
+              <select id="campus-filter"><option value="">Any campus</option></select>
+            </label>
+          </div>
+          <label class="remote-toggle"><input id="remote-filter" type="checkbox"> Show only roles I can help with from home</label>
+        </div>
+      </details>
+    </section>
+
+    <section class="results" aria-labelledby="results-heading" aria-live="polite">
+      <div class="results-heading-row">
+        <div>
+          <p class="step-label">Explore your matches</p>
+          <h2 id="results-heading"><span id="match-count">94</span> opportunities</h2>
+        </div>
+        <label class="search-label"><span class="sr-only">Search roles</span><input id="search" type="search" placeholder="Search opportunities"></label>
+      </div>
+      <div id="active-filters" class="active-filters" aria-label="Active filters"></div>
+      <div id="role-grid" class="role-grid"></div>
+      <div id="empty-state" class="empty-state" hidden>
+        <h3>No exact matches yet</h3>
+        <p>Try removing one filter—there may be a role you haven't considered.</p>
+        <button type="button" id="empty-clear" class="primary-button">Show all opportunities</button>
+      </div>
+      <button id="show-more" class="show-more" type="button">Show more opportunities</button>
+    </section>
+  </main>
+
+  <dialog id="role-dialog" aria-labelledby="dialog-title">
+    <button class="dialog-close" type="button" aria-label="Close role details">×</button>
+    <div id="dialog-content"></div>
+  </dialog>
+  <script src="app.js?v=20260814-1" defer></script>
+</body>
+</html>
