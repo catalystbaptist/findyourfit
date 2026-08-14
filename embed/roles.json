@@ -270,9 +270,9 @@
   {
     "id": 14,
     "portfolio": "Creative",
-    "role": "Audio Visual Techs",
+    "role": "Kids - Audio Visual Techs",
     "campus": "Either",
-    "summary": "Help our CatalystKids and CatalystYouth teams by providing basic AV help during programs.",
+    "summary": "Help our CatalystKids team by providing basic AV help during programs.",
     "interests": [
       "Solving Problems",
       "Helping People",
@@ -283,13 +283,34 @@
     ],
     "frequency": "Rostered",
     "commitment": "A few hours",
-    "availability": "Fridays, Sundays",
+    "availability": "Sundays",
     "remote": "No",
     "requirements": "Training provided",
     "notes": ""
   },
   {
     "id": 15,
+    "portfolio": "Creative",
+    "role": "Youth - Audio Visual Techs",
+    "campus": "Either",
+    "summary": "Help our CatalystYouth team by providing basic AV help during programs.",
+    "interests": [
+      "Solving Problems",
+      "Helping People",
+      "Creating Great Experiences"
+    ],
+    "styles": [
+      "Tech & Production"
+    ],
+    "frequency": "Rostered",
+    "commitment": "A few hours",
+    "availability": "Fridays",
+    "remote": "No",
+    "requirements": "Training provided",
+    "notes": ""
+  },
+  {
+    "id": 16,
     "portfolio": "Care",
     "role": "Prayer Team",
     "campus": "All",
@@ -309,7 +330,7 @@
     "notes": ""
   },
   {
-    "id": 16,
+    "id": 17,
     "portfolio": "Care",
     "role": "Pastoral Care Team",
     "campus": "All",
@@ -330,7 +351,7 @@
     "notes": ""
   },
   {
-    "id": 17,
+    "id": 18,
     "portfolio": "Care",
     "role": "Visitation Team",
     "campus": "Either",
@@ -351,7 +372,7 @@
     "notes": ""
   },
   {
-    "id": 18,
+    "id": 19,
     "portfolio": "Care",
     "role": "Volunteer Care",
     "campus": "Either",
@@ -372,7 +393,7 @@
     "notes": ""
   },
   {
-    "id": 19,
+    "id": 20,
     "portfolio": "Community",
     "role": "Newcomer Follow-up",
     "campus": "All",
@@ -393,7 +414,7 @@
     "notes": ""
   },
   {
-    "id": 20,
+    "id": 21,
     "portfolio": "Community",
     "role": "Connect Lunch Team",
     "campus": "Werribee",
@@ -414,7 +435,7 @@
     "notes": ""
   },
   {
-    "id": 21,
+    "id": 22,
     "portfolio": "Community",
     "role": "Catering Support",
     "campus": "All",
@@ -435,7 +456,7 @@
     "notes": ""
   },
   {
-    "id": 22,
+    "id": 23,
     "portfolio": "Community",
     "role": "Host Team Member",
     "campus": "All",
@@ -456,7 +477,7 @@
     "notes": ""
   },
   {
-    "id": 23,
+    "id": 24,
     "portfolio": "Community",
     "role": "Communion Team",
     "campus": "Werribee",
@@ -477,7 +498,7 @@
     "notes": ""
   },
   {
-    "id": 24,
+    "id": 25,
     "portfolio": "Community",
     "role": "Security Team",
     "campus": "Werribee",
@@ -498,7 +519,7 @@
     "notes": ""
   },
   {
-    "id": 25,
+    "id": 26,
     "portfolio": "Facilities",
     "role": "Garden Maintenance Crew",
     "campus": "Werribee",
@@ -519,7 +540,7 @@
     "notes": ""
   },
   {
-    "id": 26,
+    "id": 27,
     "portfolio": "Facilities",
     "role": "Window Washing",
     "campus": "Werribee",
@@ -539,7 +560,7 @@
     "notes": ""
   },
   {
-    "id": 27,
+    "id": 28,
     "portfolio": "Facilities",
     "role": "Collect & Deliver - Large Vehicle/Trailer",
     "campus": "All",
@@ -559,7 +580,7 @@
     "notes": ""
   },
   {
-    "id": 28,
+    "id": 29,
     "portfolio": "Facilities",
     "role": "Indoor plant carer",
     "campus": "Werribee",
@@ -580,7 +601,7 @@
     "notes": ""
   },
   {
-    "id": 29,
+    "id": 30,
     "portfolio": "Facilities",
     "role": "Landscape design",
     "campus": "All",
@@ -602,7 +623,7 @@
     "notes": ""
   },
   {
-    "id": 30,
+    "id": 31,
     "portfolio": "Facilities",
     "role": "Environment Health",
     "campus": "All",
@@ -623,7 +644,7 @@
     "notes": ""
   },
   {
-    "id": 31,
+    "id": 32,
     "portfolio": "Facilities",
     "role": "Trades",
     "campus": "All",
@@ -644,7 +665,7 @@
     "notes": ""
   },
   {
-    "id": 32,
+    "id": 33,
     "portfolio": "Facilities",
     "role": "Auditorium Chair Resetting",
     "campus": "Werribee",
@@ -665,7 +686,7 @@
     "notes": ""
   },
   {
-    "id": 33,
+    "id": 34,
     "portfolio": "Discipleship",
     "role": "Faith Mentors",
     "campus": "All",
@@ -686,7 +707,7 @@
     "notes": ""
   },
   {
-    "id": 34,
+    "id": 35,
     "portfolio": "Discipleship",
     "role": "Alpha Facilitators",
     "campus": "Werribee",
@@ -708,7 +729,7 @@
     "notes": ""
   },
   {
-    "id": 35,
+    "id": 36,
     "portfolio": "Discipleship",
     "role": "Alpha Table hosts",
     "campus": "Werribee",
@@ -729,7 +750,7 @@
     "notes": ""
   },
   {
-    "id": 36,
+    "id": 37,
     "portfolio": "Discipleship",
     "role": "Quiet Time Tool",
     "campus": "Werribee",
@@ -750,7 +771,7 @@
     "notes": ""
   },
   {
-    "id": 37,
+    "id": 38,
     "portfolio": "Discipleship",
     "role": "Life Group Hosts",
     "campus": "All",
@@ -771,7 +792,7 @@
     "notes": ""
   },
   {
-    "id": 38,
+    "id": 39,
     "portfolio": "Discipleship",
     "role": "Life Group Leader",
     "campus": "All",
@@ -793,7 +814,7 @@
     "notes": ""
   },
   {
-    "id": 39,
+    "id": 40,
     "portfolio": "Discipleship",
     "role": "Serving Mobiliser",
     "campus": "All",
@@ -814,7 +835,7 @@
     "notes": ""
   },
   {
-    "id": 40,
+    "id": 41,
     "portfolio": "Next Gen",
     "role": "Kids - Additional Needs Buddy",
     "campus": "Werribee",
@@ -835,7 +856,7 @@
     "notes": ""
   },
   {
-    "id": 41,
+    "id": 42,
     "portfolio": "Next Gen",
     "role": "Kids – Additional Needs Coordinator",
     "campus": "Werribee",
@@ -857,7 +878,7 @@
     "notes": ""
   },
   {
-    "id": 42,
+    "id": 43,
     "portfolio": "Next Gen",
     "role": "Kids - Newcomers Host",
     "campus": "Werribee",
@@ -878,7 +899,7 @@
     "notes": ""
   },
   {
-    "id": 43,
+    "id": 44,
     "portfolio": "Next Gen",
     "role": "Kids – Parents Room Manager",
     "campus": "Werribee",
@@ -900,7 +921,7 @@
     "notes": ""
   },
   {
-    "id": 44,
+    "id": 45,
     "portfolio": "Next Gen",
     "role": "Kids – Parents Room Host",
     "campus": "Werribee",
@@ -921,7 +942,7 @@
     "notes": ""
   },
   {
-    "id": 45,
+    "id": 46,
     "portfolio": "Next Gen",
     "role": "Kids – Midweek Prep Team",
     "campus": "Werribee",
@@ -937,13 +958,13 @@
     ],
     "frequency": "Weekly",
     "commitment": "A few hours",
-    "availability": "Midweek",
+    "availability": "Sundays",
     "remote": "Yes",
     "requirements": "No experience needed",
     "notes": ""
   },
   {
-    "id": 46,
+    "id": 47,
     "portfolio": "Next Gen",
     "role": "Kids – Foyer Supervisor",
     "campus": "Werribee",
@@ -965,7 +986,7 @@
     "notes": ""
   },
   {
-    "id": 47,
+    "id": 48,
     "portfolio": "Next Gen",
     "role": "Kids – Primary Coordinator",
     "campus": "Werribee",
@@ -987,7 +1008,7 @@
     "notes": ""
   },
   {
-    "id": 48,
+    "id": 49,
     "portfolio": "Next Gen",
     "role": "Kids – Preschool Coordinator",
     "campus": "Werribee",
@@ -1009,7 +1030,7 @@
     "notes": ""
   },
   {
-    "id": 49,
+    "id": 50,
     "portfolio": "Next Gen",
     "role": "Kids - KinderZone Team Leader",
     "campus": "Werribee",
@@ -1025,13 +1046,13 @@
     ],
     "frequency": "Rostered",
     "commitment": "A few hours",
-    "availability": "Sunday",
+    "availability": "Sundays",
     "remote": "No",
     "requirements": "Training provided",
     "notes": ""
   },
   {
-    "id": 50,
+    "id": 51,
     "portfolio": "Next Gen",
     "role": "Kids - ToddlerZone Team Leader",
     "campus": "Werribee",
@@ -1047,13 +1068,13 @@
     ],
     "frequency": "Rostered",
     "commitment": "A few hours",
-    "availability": "Sunday",
+    "availability": "Sundays",
     "remote": "No",
     "requirements": "Training provided",
     "notes": ""
   },
   {
-    "id": 51,
+    "id": 52,
     "portfolio": "Next Gen",
     "role": "Kids – Setup Team",
     "campus": "All",
@@ -1068,13 +1089,13 @@
     ],
     "frequency": "Rostered",
     "commitment": "Quick - Under 1hr",
-    "availability": "Sunday",
+    "availability": "Sundays",
     "remote": "No",
     "requirements": "No experience needed",
     "notes": ""
   },
   {
-    "id": 52,
+    "id": 53,
     "portfolio": "Next Gen",
     "role": "Youth – Small Group Leader",
     "campus": "All",
@@ -1096,7 +1117,7 @@
     "notes": ""
   },
   {
-    "id": 53,
+    "id": 54,
     "portfolio": "Next Gen",
     "role": "Youth – Adult Leader",
     "campus": "All",
@@ -1117,7 +1138,7 @@
     "notes": ""
   },
   {
-    "id": 54,
+    "id": 55,
     "portfolio": "Next Gen",
     "role": "Youth – Setup Team",
     "campus": "All",
@@ -1132,13 +1153,13 @@
     ],
     "frequency": "Rostered",
     "commitment": "Quick - Under 1hr",
-    "availability": "Fridays",
+    "availability": "Friday Night",
     "remote": "No",
     "requirements": "No experience needed",
     "notes": ""
   },
   {
-    "id": 55,
+    "id": 56,
     "portfolio": "Next Gen",
     "role": "Youth – Supper Team",
     "campus": "All",
@@ -1160,7 +1181,7 @@
     "notes": ""
   },
   {
-    "id": 56,
+    "id": 57,
     "portfolio": "Next Gen",
     "role": "Youth – Foyer Supervisor",
     "campus": "Werribee",
@@ -1182,7 +1203,7 @@
     "notes": ""
   },
   {
-    "id": 57,
+    "id": 58,
     "portfolio": "Next Gen",
     "role": "NextGen – Decor Team",
     "campus": "All",
@@ -1204,7 +1225,7 @@
     "notes": ""
   },
   {
-    "id": 58,
+    "id": 59,
     "portfolio": "Next Gen",
     "role": "NextGen – Newcomer Follow Up",
     "campus": "All",
@@ -1225,7 +1246,7 @@
     "notes": ""
   },
   {
-    "id": 59,
+    "id": 60,
     "portfolio": "Next Gen",
     "role": "NextGen – Birthday Admin",
     "campus": "All",
@@ -1246,7 +1267,7 @@
     "notes": ""
   },
   {
-    "id": 60,
+    "id": 61,
     "portfolio": "Next Gen",
     "role": "NextGen – Rostering Admin",
     "campus": "All",
@@ -1267,7 +1288,7 @@
     "notes": ""
   },
   {
-    "id": 61,
+    "id": 62,
     "portfolio": "Resources",
     "role": "Library Assistant",
     "campus": "Werribee",
@@ -1288,7 +1309,7 @@
     "notes": ""
   },
   {
-    "id": 62,
+    "id": 63,
     "portfolio": "Resources",
     "role": "RightNow Media Curator",
     "campus": "All",
@@ -1310,7 +1331,7 @@
     "notes": ""
   },
   {
-    "id": 63,
+    "id": 64,
     "portfolio": "Resources",
     "role": "Quiet Time Tool Assistant",
     "campus": "All",
@@ -1331,7 +1352,7 @@
     "notes": ""
   },
   {
-    "id": 64,
+    "id": 65,
     "portfolio": "Local Mission",
     "role": "KidsHope Mentors",
     "campus": "Either",
@@ -1352,7 +1373,7 @@
     "notes": ""
   },
   {
-    "id": 65,
+    "id": 66,
     "portfolio": "Local Mission",
     "role": "KidsHope School Liaison",
     "campus": "Either",
@@ -1373,7 +1394,7 @@
     "notes": ""
   },
   {
-    "id": 66,
+    "id": 67,
     "portfolio": "Local Mission",
     "role": "Mentor Chaplain",
     "campus": "All",
@@ -1395,7 +1416,7 @@
     "notes": ""
   },
   {
-    "id": 67,
+    "id": 68,
     "portfolio": "Local Mission",
     "role": "CommunityAssist Support",
     "campus": "Werribee",
@@ -1417,7 +1438,7 @@
     "notes": ""
   },
   {
-    "id": 68,
+    "id": 69,
     "portfolio": "Local Mission",
     "role": "CommunityAssist Liaison",
     "campus": "Werribee",
@@ -1439,7 +1460,7 @@
     "notes": ""
   },
   {
-    "id": 69,
+    "id": 70,
     "portfolio": "Local Mission",
     "role": "FamilyHub - Setup",
     "campus": "Either",
@@ -1454,13 +1475,13 @@
     ],
     "frequency": "Weekly",
     "commitment": "Quick - Under 1hr",
-    "availability": "Sunday",
+    "availability": "Sundays",
     "remote": "No",
     "requirements": "No experience needed",
     "notes": ""
   },
   {
-    "id": 70,
+    "id": 71,
     "portfolio": "Local Mission",
     "role": "FamilyHub – Team Member",
     "campus": "Either",
@@ -1482,7 +1503,7 @@
     "notes": ""
   },
   {
-    "id": 71,
+    "id": 72,
     "portfolio": "Local Mission",
     "role": "FamilyHub – Baker",
     "campus": "Either",
@@ -1503,7 +1524,7 @@
     "notes": ""
   },
   {
-    "id": 72,
+    "id": 73,
     "portfolio": "Local Mission",
     "role": "FamilyHub - Resources",
     "campus": "Werribee",
@@ -1524,7 +1545,7 @@
     "notes": ""
   },
   {
-    "id": 73,
+    "id": 74,
     "portfolio": "Local Mission",
     "role": "FamilyHub – Toy Curator",
     "campus": "Werribee",
@@ -1546,7 +1567,7 @@
     "notes": ""
   },
   {
-    "id": 74,
+    "id": 75,
     "portfolio": "Local Mission",
     "role": "MumCo – Team Member",
     "campus": "Werribee",
@@ -1568,7 +1589,7 @@
     "notes": ""
   },
   {
-    "id": 75,
+    "id": 76,
     "portfolio": "Local Mission",
     "role": "CommunityMeal - Admin",
     "campus": "Werribee",
@@ -1590,7 +1611,7 @@
     "notes": ""
   },
   {
-    "id": 76,
+    "id": 77,
     "portfolio": "Local Mission",
     "role": "CommunityMeal - Support",
     "campus": "Werribee",
@@ -1611,7 +1632,7 @@
     "notes": ""
   },
   {
-    "id": 77,
+    "id": 78,
     "portfolio": "Local Mission",
     "role": "CommunityMeal - Table Hosts",
     "campus": "Werribee",
@@ -1632,7 +1653,7 @@
     "notes": ""
   },
   {
-    "id": 78,
+    "id": 79,
     "portfolio": "Local Mission",
     "role": "CommunityMeal - Families support",
     "campus": "Werribee",
@@ -1654,7 +1675,7 @@
     "notes": ""
   },
   {
-    "id": 79,
+    "id": 80,
     "portfolio": "Local Mission",
     "role": "CommunityMeal – Faith Leader",
     "campus": "Werribee",
@@ -1676,7 +1697,7 @@
     "notes": ""
   },
   {
-    "id": 80,
+    "id": 81,
     "portfolio": "Local Mission",
     "role": "Grant Writer",
     "campus": "All",
@@ -1698,7 +1719,7 @@
     "notes": ""
   },
   {
-    "id": 81,
+    "id": 82,
     "portfolio": "Local Mission",
     "role": "Researchers",
     "campus": "All",
@@ -1720,7 +1741,7 @@
     "notes": ""
   },
   {
-    "id": 82,
+    "id": 83,
     "portfolio": "Local Mission",
     "role": "Social Media Assistant",
     "campus": "All",
@@ -1741,7 +1762,7 @@
     "notes": ""
   },
   {
-    "id": 83,
+    "id": 84,
     "portfolio": "Local Mission",
     "role": "Community Garden – Team Member",
     "campus": "Bacchus Marsh",
@@ -1763,7 +1784,7 @@
     "notes": ""
   },
   {
-    "id": 84,
+    "id": 85,
     "portfolio": "Global Mission",
     "role": "Mission Team Coordinator",
     "campus": "All",
@@ -1785,7 +1806,7 @@
     "notes": ""
   },
   {
-    "id": 85,
+    "id": 86,
     "portfolio": "Global Mission",
     "role": "Mission Prayer Liaison",
     "campus": "All",
@@ -1806,7 +1827,7 @@
     "notes": ""
   },
   {
-    "id": 86,
+    "id": 87,
     "portfolio": "Global Mission",
     "role": "Global Worker Support",
     "campus": "All",
@@ -1828,7 +1849,7 @@
     "notes": ""
   },
   {
-    "id": 87,
+    "id": 88,
     "portfolio": "Venues",
     "role": "Casual – AV Technician",
     "campus": "Werribee",
@@ -1849,7 +1870,7 @@
     "notes": ""
   },
   {
-    "id": 88,
+    "id": 89,
     "portfolio": "Venues",
     "role": "Decorator",
     "campus": "All",
@@ -1871,7 +1892,7 @@
     "notes": ""
   },
   {
-    "id": 89,
+    "id": 90,
     "portfolio": "Venues",
     "role": "Event Barista",
     "campus": "Werribee",
@@ -1893,7 +1914,7 @@
     "notes": ""
   },
   {
-    "id": 90,
+    "id": 91,
     "portfolio": "Venues",
     "role": "Washing Assistance",
     "campus": "Werribee",
@@ -1913,7 +1934,7 @@
     "notes": ""
   },
   {
-    "id": 91,
+    "id": 92,
     "portfolio": "Administration",
     "role": "Records Review",
     "campus": "Werribee",
@@ -1934,7 +1955,7 @@
     "notes": ""
   },
   {
-    "id": 92,
+    "id": 93,
     "portfolio": "Administration",
     "role": "Supply Restock / Facility Stocktake",
     "campus": "Werribee",
@@ -1956,7 +1977,7 @@
     "notes": ""
   },
   {
-    "id": 93,
+    "id": 94,
     "portfolio": "Administration",
     "role": "Database Maintenance",
     "campus": "Werribee",
@@ -1978,7 +1999,7 @@
     "notes": ""
   },
   {
-    "id": 94,
+    "id": 95,
     "portfolio": "Administration",
     "role": "Asset Manager",
     "campus": "All",
