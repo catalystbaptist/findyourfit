@@ -61,7 +61,7 @@ function render() {
 }
 
 async function init() {
-  roles = await fetch("roles.json").then((response) => { if (!response.ok) throw new Error("Could not load roles"); return response.json(); });
+  roles = await fetch("roles.json?v=20260814-1").then((response) => { if (!response.ok) throw new Error("Could not load roles"); return response.json(); });
   unique("interests").forEach((value, index) => $("#interest-filters").append(makeButton(value, "choice", state.interests, interestMarks[index % interestMarks.length])));
   unique("styles").forEach((value) => $("#style-filters").append(makeButton(value, "chip", state.styles)));
   fillSelect("#availability-filter", unique("availability")); fillSelect("#commitment-filter", unique("commitment")); fillSelect("#campus-filter", unique("campus").filter((value) => !["All", "Either"].includes(value)));
